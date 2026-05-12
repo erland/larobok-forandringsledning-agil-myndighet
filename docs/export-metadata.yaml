@@ -1,0 +1,36 @@
+title: Att stötta förändring i en agil myndighet
+subtitle: En praktisk lärobok för stödjande funktioner i verksamhetsnära förändringsarbete
+description: Praktisk förändringsledning i en stor statlig myndighet som ställer om mot ett mer agilt arbetssätt.
+author: Erland Lindmark
+language: sv
+difficulty: basic
+audience: Personer i stödjande funktioner inom en stor statlig myndighet som ska stötta
+  fasta utvecklingsområden och operativ verksamhet i förändringsarbete.
+book_type: textbook/handbook
+edition: '1'
+version: '1.5'
+date: '2026-05-12'
+rights: All rights reserved
+publisher: ''
+cover_image: ''
+chapters:
+- chapters/00-om-boken.md
+- chapters/01-vad-ar-forandringsledning-i-var-myndighetsvardag.md
+- chapters/02-den-stodjande-funktionens-uppdrag.md
+- chapters/03-fran-projektlogik-till-lopande-utveckling.md
+- chapters/04-borja-med-varfor-forandringen-behovs.md
+- chapters/05-forsta-vilka-som-paverkas.md
+- chapters/06-bedom-forandringsberedskap.md
+- chapters/07-planera-forandringsinsatser.md
+- chapters/08-skapa-delaktighet-utan-att-tappa-riktning.md
+- chapters/09-kommunicera-forandringen-begripligt.md
+- chapters/10-hantera-oro-motstand-och-friktion.md
+- chapters/11-stotta-chefer-och-nyckelroller.md
+- chapters/12-inforande-ar-inte-slutet.md
+- chapters/13-folj-upp-nytta-och-larande.md
+- chapters/14-bygg-forandringsformaga-over-tid.md
+exports:
+  epub: true
+  docx: true
+  pdf: true
+  markdown: true
